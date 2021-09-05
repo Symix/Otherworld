@@ -6,7 +6,7 @@ import com.badlogic.gdx.audio.Sound;
 public class AllSounds {
 
     public static Sound ArrowCollide = Gdx.audio.newSound(Gdx.files.internal("sounds/arrow_collide.wav"));
-    public static Sound Splat = Gdx.audio.newSound(Gdx.files.internal("sounds/Splat.wav"));
+    public static Sound Splat = Gdx.audio.newSound(Gdx.files.internal("sounds/splat.wav"));
     public static Sound FireBow = Gdx.audio.newSound(Gdx.files.internal("sounds/fire_bow.wav"));
 
     public static Sound StepDirt = Gdx.audio.newSound(Gdx.files.internal("sounds/step_dirt.wav"));
